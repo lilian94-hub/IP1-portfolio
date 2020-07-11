@@ -6,5 +6,15 @@
     font-weight: bold;
     color: rgb(218, 189, 28);
 }
+.myprofile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    
+    
+    
+}
 
 
