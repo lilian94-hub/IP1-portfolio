@@ -1,3 +1,6 @@
+body {
+    background-color: #f6fsfs;
+}
 .header{
     text-align: center;
     font-size: 50px;
@@ -13,6 +16,13 @@
     width: 300px;
     height: 300px;
 }
-
+.hobbies {
+    width: 200px;
+    height: 200px;
+}
+.navbar {
+    display: inline;
+    paddding: 30px;
+}
 
 
